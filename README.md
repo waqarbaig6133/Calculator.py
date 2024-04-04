@@ -16,6 +16,6 @@ The operators include:
   
   -Square roots
 
-  There are also some brackets for ordered operations (BEDMAS) and percentage. There are some constraints for the factorial and square root operators, where they can only be used by itself and not with other operators. Therefore, 3 sqrt(9) won't give you 9, but instead 6.27. Same problem for factorials. I will fix this problem in the future. But for now, this is what I have.
+  There are also some brackets for ordered operations (BEDMAS) and percentage. There are some constraints for the factorial and square root operators, where they can only be used by themselves and not with other operators. Therefore, 3*sqrt(9) won't give you anything. Same problem for factorials. I will fix this problem in the future. But for now, this is what I have.
   
   [screen-capture (1).webm](https://github.com/waqarbaig6133/Calculator.py/assets/140295418/f81b392a-fd51-415f-8bd3-c81a61034f93)
